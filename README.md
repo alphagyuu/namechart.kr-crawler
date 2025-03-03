@@ -1,6 +1,5 @@
-# namechart.kr Crawler
+# [NameChart.kr](https://www.namechart.kr/)에서 한국인 이름 데이터를 크롤링하는 Python 코드입니다.
 
-[NameChart.kr](https://www.namechart.kr/)에서 한국인 이름 데이터를 크롤링하는 Python 코드입니다.
 
 ## 📌 기능
 - Selenium과 BeautifulSoup을 활용하여 웹 페이지에서 데이터를 수집합니다.
