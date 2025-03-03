@@ -1,4 +1,4 @@
-#namechart.kr-crawler
+# namechart.kr-crawler
 [NameChart.kr](https://www.namechart.kr/)에서 한국인 이름 데이터를 크롤링하는 Python 코드입니다.
 
 
